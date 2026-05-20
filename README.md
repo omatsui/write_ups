@@ -22,8 +22,8 @@ Topics I focus on: AI/LLM security and web security.
 
 ### Hack The Box
 
-| Machine | Category | Difficulty | Status |
+| Machine | Category | Difficulty | Flags |
 |---------|----------|------------|--------|
-| — | — | — | Coming soon |
+[Evaluating the Trojan Attack](./HackTheBox/trojan-attacks-ai/trojan_attack_writeup.md) | AI / Prompt Injection | No rating (Academy) | 1/1 |
 
 
