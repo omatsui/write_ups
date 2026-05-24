@@ -24,6 +24,7 @@ Topics I focus on: AI/LLM security and web security.
 
 | Machine | Category | Difficulty | Flags |
 |---------|----------|------------|--------|
-[Evaluating the Trojan Attack](./HackTheBox/trojan-attacks-ai/trojan_attack_writeup.md) | AI / Prompt Injection | No rating (Academy) | 1/1 |
+[Evaluating the Trojan Attack](./HackTheBox/trojan-attacks-ai/trojan_attack_writeup.md) | AI / ML supply-chain | No rating (Academy) | 1/1 |
+[Pickles and Steganography (Execute the Attack](./HackTheBox/ai-data-pickles/readme.md) | AI / ML supply-chain | No rating (Academy) | 1/1 |
 
 
