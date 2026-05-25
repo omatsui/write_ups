@@ -1,9 +1,7 @@
 # TryHackMe — White Rabbit
 
 **Platform:** [TryHackMe](https://tryhackme.com)
-  
->>>>>>> de7c950 (Added write up for Evaluating the Trojan Attack from HackTheBox)
->>>>>>> Stashed changes
+
 **Room:** White Rabbit  
 
 ---
