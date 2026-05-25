@@ -12,19 +12,18 @@ Topics I focus on: AI/LLM security and web security.
 
 ## Writeups
 
-### TryHackMe
-
-| Room | Category | Difficulty | Flags |
-|------|----------|------------|-------|
-| [White Rabbit](./TryHackMe/white-rabbit/white_rabbit_writeup.md) | AI / Prompt Injection | Easy | 3/3 |
-
----
-
 ### Hack The Box
 
 | Machine | Category | Difficulty | Flags |
 |---------|----------|------------|--------|
 [Evaluating the Trojan Attack](./HackTheBox/trojan-attacks-ai/trojan_attack_writeup.md) | AI / ML supply-chain | No rating (Academy) | 1/1 |
-[Pickles and Steganography (Execute the Attack](./HackTheBox/ai-data-pickles/readme.md) | AI / ML supply-chain | No rating (Academy) | 1/1 |
+[Pickles and Steganography (Execute the Attack)](./HackTheBox/ai-data-pickles/readme.md) | AI / ML supply-chain | No rating (Academy) | 1/1 |
+[AI Data attacks (Skills Assessment)](./HackTheBox/ai-data-attacks-skills-assessment/readme.md) | AI / ML supply-chain | No rating (Academy) | 1/1 |
 
+---
 
+### TryHackMe
+
+| Room | Category | Difficulty | Flags |
+|------|----------|------------|-------|
+| [White Rabbit](./TryHackMe/white-rabbit/white_rabbit_writeup.md) | AI / Prompt Injection | Easy | 3/3 |
