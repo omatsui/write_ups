@@ -22,6 +22,7 @@ Topics I focus on: AI/LLM security and web security.
 [AI Evasions Foundations (GoodWords Challenge)](./HackTheBox/ai-evasions-goodwords/readme.md) | AI / ML evasions | No rating (Academy) | 1/1 |
 [AI Evasions Foundations (Skills Assesment)](./HackTheBox/ai-evasions-foundations-skills-assesment/readme.md) | AI / ML evasions | No rating (Academy) | 1/1 |
 [AI Evasions First-order attacks (FGSM challenge)](./HackTheBox/ai-evasions-first-order-fgsm/readme.md) | AI / ML evasions | No rating (Academy) | 1/1 |
+[AI Evasions First-order attacks (DeepFool challenge)](./HackTheBox/ai-evasions-first-order-deepfool/readme.md) | AI / ML evasions | No rating (Academy) | 1/1 |
 
 ---
 
